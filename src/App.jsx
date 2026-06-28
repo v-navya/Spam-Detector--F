@@ -5,7 +5,7 @@ import TextInput from './components/TextInput'
 import ExampleChips from './components/ExampleChips'
 import ResultCard from './components/ResultCard'
 
-const API = 'http://127.0.0.1:5000'
+const API = 'https://spam-detector-1-4u90.onrender.com/'
 
 export default function App() {
   const [text, setText] = useState('')
