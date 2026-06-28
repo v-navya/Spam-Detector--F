@@ -3,7 +3,7 @@
 ML-powered app that classifies email/SMS as spam or ham
 using Naive Bayes with 97.8% accuracy.
 
-**Live demo:** https://your-app.vercel.app
+**Live demo:** https://spam-detector-f.vercel.app/
 
 **Tech:** Python · Scikit-learn · Flask · React · TF-IDF
 
